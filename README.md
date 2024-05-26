@@ -4,7 +4,7 @@ This is a simple React Native application that displays a message with the stude
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot]("C:\Users\riche\OneDrive\Desktop\ALL\Codes\MyFirstProject\screenshot.png.png")
 
 ## Description
 
